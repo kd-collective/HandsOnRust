@@ -1,5 +1,7 @@
 # Hands-on Rust Source Code
 
+> **Note**: Some of the default dependencies haven't aged well. The most recent update should update `Cargo.lock`; running `cargo update` on your system is advised.
+
 This repository contains the source code for the examples found in [Hands-on Rust](https://hands-on-rust.com/). These are also available from my publisher, [PragProg](https://pragprog.com/titles/hwrust/hands-on-rust/) and are shared with their permission.
 
 <img src="github-images/cover.jpg" width=25% />
