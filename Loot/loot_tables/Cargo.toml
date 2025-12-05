@@ -9,5 +9,5 @@ edition = "2018"
 [dependencies]
 bracket-lib.workspace = true
 legion = "=0.3.1"
-serde = "=1.0.115"
+serde = "1"
 ron = "=0.6.1"
